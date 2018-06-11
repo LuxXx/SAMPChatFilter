@@ -7,6 +7,6 @@ Installation:
  - Install the ASI Loader
  - [Download SAMPChatFilter.asi](https://github.com/LuxXx/SAMPChatFilter/releases)
  - Copy ChatFilter.asi to your Grand Theft Auto: San Andreas Installation
- - Create a file called "chatfilter.txt"
+ - Create a file called "chatfilter.txt" in the same directory
  - Write the stuff you want to supress into "chatfilter.txt"
- - When the game wants to print a line, the asi checks if a line of chatfilter.txt occures. If yes the line wont be printed
+ - When the game wants to print a line, the asi checks if a line of chatfilter.txt occurs. If yes the line won't be printed
